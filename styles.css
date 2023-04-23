@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+    border: 10px solid black;
+}
+
+#title, #root {
+    text-align: center;
+    align-content: center;
+    border: 10px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+}
